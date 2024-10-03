@@ -1,1 +1,3 @@
 This folder is for a guidance on what will be covered with Calculus. Even though a lot of it requires some form of understanding code, the goal fundamentally is to have an `hands-on` experience with Calculus. 
+
+I am willing to cover some reference texts to better understand and explain my knowledge related to Calculus through Reference Texts, right from the basics to the advanced calculus required for implementing Deep Learning Models. 
