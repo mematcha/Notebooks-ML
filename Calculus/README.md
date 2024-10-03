@@ -1,0 +1,1 @@
+This folder is for a guidance on what will be covered with Calculus. Even though a lot of it requires some form of understanding code, the goal fundamentally is to have an `hands-on` experience with Calculus. 
