@@ -1,14 +1,14 @@
 # Youtube-Notebooks-ML
-A Collection of Jupyter Notebooks from my Youtube Portfolio Channel which has content ranging from Calculus to Deep Learning. 
+A Collection of Jupyter Notebooks for my Youtube Portfolio Channel which has content ranging from Calculus to Deep Learning. 
 
-Topics I choose to cover on:
+Topics I chose to cover on:
 
 - Calculus
 - Linear Algebra
 - Differential Equations
 - Probability and Statistics
 
-- Intro to Python
+- Languages and Frameworks
 - Data Science
 - Machine Learning
 - Deep Learning 
