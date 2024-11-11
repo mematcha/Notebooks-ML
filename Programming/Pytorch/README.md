@@ -17,3 +17,4 @@ I expect things to change in the coming months/years to bring compatibility to a
 Other libraries I have installed:
 
 - matplotlib (3.9.2)
+- torchviz (0.0.2)
