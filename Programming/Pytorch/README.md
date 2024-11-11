@@ -13,3 +13,7 @@ I have used an environment that uses the following libraries:
 - torchvision (0.15.0)
 
 I expect things to change in the coming months/years to bring compatibility to all modules.
+
+Other libraries I have installed:
+
+- matplotlib (3.9.2)
