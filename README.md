@@ -1,4 +1,4 @@
-# Youtube-Notebooks-ML
+# Notebooks-ML
 A Collection of Jupyter Notebooks for my Portfolio which has content ranging from Calculus to Deep Learning. 
 
 Topics I chose to cover on:
